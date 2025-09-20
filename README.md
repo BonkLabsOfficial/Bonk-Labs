@@ -1,4 +1,4 @@
-# Bonk Labs - AI-Powered Degen Lab
+# <div align="center"> Bonk Labs
 
 <div align="center">
 
